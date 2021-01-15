@@ -1,2 +1,2 @@
 # TicTac
-The game.
+The game!
